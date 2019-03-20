@@ -1,0 +1,26 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "atelier node et npm - ",
+  "main": "main.js",
+  "scripts": {
+    "start" : "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-FR/-wcs-atelier1-note_npm.git"
+  },
+  "keywords": [
+    "atelier",
+    "wildcodeschool"
+  ],
+  "author": "Mickael Spennato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-FR/-wcs-atelier1-note_npm/issues"
+  },
+  "homepage": "https://github.com/Mike-FR/-wcs-atelier1-note_npm#readme",
+  "dependencies": {
+    "chalk": "2.4.2"
+  }
+}
